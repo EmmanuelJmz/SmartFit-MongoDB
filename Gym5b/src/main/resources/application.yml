@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@gimnasio5b.yonkyyz.mongodb.net/?retryWrites=true&w=majority
+      database: gimnasio5b
